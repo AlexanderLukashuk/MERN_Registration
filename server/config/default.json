@@ -1,0 +1,5 @@
+{
+  "serverPort" : 5000,
+  "dbUrl": "mongodb+srv://Sanya:1q2w3e4rAitu2021@anotomy.sumsg.mongodb.net/users",
+  "secretKey": "mern-secket-key"
+}
